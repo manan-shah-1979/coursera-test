@@ -1,0 +1,55 @@
+
+/** HEADER **/
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Monaco;
+	font-style: bold;
+
+}
+
+/*
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  	border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  	clear: both;
+}
+*/
+
+.navbar-brand a:hover,  .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+.navbar-brand a h2{
+	margin-top: -10px;
+	color: black;
+}
+
+#content{
+	background-color: #e6ed5c;
+	margin:50px 30px 15px;
+	color: black;
+}
+
+#navbar-hdr{
+	background-color: #ff9354;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}	
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+
+.menu-border{
+	margin: 0px auto 0px;
+	width: 80%;
+	border-color: black;
+
+}
